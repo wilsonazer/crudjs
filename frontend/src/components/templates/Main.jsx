@@ -6,8 +6,8 @@ import Header from './Header'
 const Main = props =>
     <React.Fragment>
         <Header />
-        <main className='contend'>
-            main
+        <main className='content'>
+            conteudo
         </main>
     </React.Fragment>
 

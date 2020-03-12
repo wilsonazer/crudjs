@@ -3,7 +3,7 @@ import React from 'react'
 import './Header.css'
 
 const Header = () =>
-    <header className='Header'>
+    <header className='header'>
         Header
     </header>
 
